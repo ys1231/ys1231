@@ -19,7 +19,7 @@
 
 ### 🔍 逆向工程
 - **[idafridascript](https://github.com/ys1231/idafridascript)** `⭐17` - IDA Pro 9.1 Frida脚本生成插件
-- **[jadx](https://github.com/ys1231/jadx)** `⭐65` - Dex到Java反编译器 (推荐1.5.2版本)
+- **[jadx](https://github.com/ys1231/jadx)** `⭐65` - Dex到Java反编译器 (推荐使用官方最新版本)
 - **[idaserver](https://github.com/ys1231/idaserver)** `⭐12` - 启动时运行 android-server -> idserver -p 1234
 
 ### 🍎 iOS 工具
