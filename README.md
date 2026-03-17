@@ -13,14 +13,14 @@
 ## 🌟 主要项目
 
 ### 🔒 安全工具
-- **[MoveCertificate](https://github.com/ys1231/MoveCertificate)** `⭐1.5k` - 支持Android7-15移动证书，兼容magiskv20.4+/kernelsu/APatch
-- **[appproxy](https://github.com/ys1231/appproxy)** `⭐415` - 基于Flutter的Android VPN代理工具
-- **[reproto](https://github.com/ys1231/reproto)** `⭐1` - 一个强大的逆向工程工具，能够从任何使用Google Protobuf Lite的Android应用中自动重构出完整的.proto文件结构。
+- **[MoveCertificate](https://github.com/ys1231/MoveCertificate)** ![](https://img.shields.io/github/stars/ys1231/MoveCertificate.svg) - 支持Android7-16移动证书，兼容magiskv20.4+/kernelsu/APatch
+- **[appproxy](https://github.com/ys1231/appproxy)** ![](https://img.shields.io/github/stars/ys1231/appproxy.svg) - 基于Flutter的Android VPN代理工具
+- **[reproto](https://github.com/ys1231/reproto)** ![](https://img.shields.io/github/stars/ys1231/reproto.svg) - 一个强大的逆向工程工具，能够从任何使用Google Protobuf Lite的Android应用中自动重构出完整的.proto文件结构。
 
 ### 🔍 逆向工程
-- **[idafridascript](https://github.com/ys1231/idafridascript)** `⭐17` - IDA Pro 9.1 Frida脚本生成插件
-- **[jadx](https://github.com/ys1231/jadx)** `⭐65` - Dex到Java反编译器 (推荐使用官方最新版本)
-- **[idaserver](https://github.com/ys1231/idaserver)** `⭐12` - 启动时运行 android-server -> idserver -p 1234
+- **[idafridascript](https://github.com/ys1231/idafridascript)** ![](https://img.shields.io/github/stars/ys1231/idafridascript.svg) - IDA Pro > 9 Frida脚本生成插件
+- **[jadx](https://github.com/ys1231/jadx)** ![](https://img.shields.io/github/stars/ys1231/jadx.svg) - Dex到Java反编译器 (推荐使用官方最新版本)
+- **[idaserver](https://github.com/ys1231/idaserver)** ![](https://img.shields.io/github/stars/ys1231/idaserver.svg) - 启动时运行 android-server -> idserver -p 1234
 
 ### 🍎 iOS 工具
 - **[sileorepo](https://github.com/ys1231/sileorepo)** - iOS Sileo软件仓库，包含指定版本的iOS Frida
