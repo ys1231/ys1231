@@ -14,7 +14,7 @@
 
 ### 🔒 安全工具
 - **[MoveCertificate](https://github.com/ys1231/MoveCertificate)** ![](https://img.shields.io/github/stars/ys1231/MoveCertificate.svg) - 支持Android7-16移动证书，兼容magiskv20.4+/kernelsu/APatch
-- **[appproxy](https://github.com/ys1231/appproxy)** ![](https://img.shields.io/github/stars/ys1231/appproxy.svg) - 基于Flutter的Android VPN代理工具
+- **[appproxy](https://github.com/ys1231/appproxy)** ![](https://img.shields.io/github/stars/ys1231/appproxy.svg) - 基于Flutter的Android VPN代理工具, 支持 MCPServer
 - **[reproto](https://github.com/ys1231/reproto)** ![](https://img.shields.io/github/stars/ys1231/reproto.svg) - 一个强大的逆向工程工具，能够从任何使用Google Protobuf Lite的Android应用中自动重构出完整的.proto文件结构。
 
 ### 🔍 逆向工程
